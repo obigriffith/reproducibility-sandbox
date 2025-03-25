@@ -9,7 +9,7 @@ This analysis examines gene expression patterns across 19 AML model mouse sample
 ## Key Features
 
 * Analysis of 19 AML model mouse samples
-* Treatment comparison between vehicle and therapeutic interventions
+* Treatment comparison between vehicle & therapeutic interventions
 * Gene selection based on variance analysis
 * Visualization through clustered heatmaps
 * Comprehensive statistical annotations
